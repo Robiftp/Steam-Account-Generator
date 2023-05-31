@@ -9,4 +9,4 @@ Put your [capmonster](https://www.capmonster.com) key in the config.json
 
 # Credits
 
-Rayb0 & Divine
+[Robi](https://github.com/Robiftp)
